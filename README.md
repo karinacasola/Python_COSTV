@@ -1,1 +1,2 @@
 # Análise de dados com Python
+Tutoriais simples para os primeiros passos na execução da análise exploratória com Python.
