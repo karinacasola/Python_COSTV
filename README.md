@@ -1,2 +1,1 @@
-# Análise de dados com Python
-Tutoriais simples para os primeiros passos na execução da análise de dados com Python.
+Tutoriais relacionados ao canal da COSTV: https://cos.tv/channel/17118663375235072
